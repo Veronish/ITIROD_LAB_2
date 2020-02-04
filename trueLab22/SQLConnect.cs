@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace trueLab22
+namespace itirod_lab2
 {
     class SQLConnect
     {

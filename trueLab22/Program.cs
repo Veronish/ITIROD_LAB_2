@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 using System.Data;
 using System.Threading;
 
-namespace trueLab22
+namespace itirod_lab2
 {
     class Program
     {
